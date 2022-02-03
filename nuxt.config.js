@@ -1,7 +1,7 @@
 export default {
   mode: 'universal',
   server: {
-    port: 1301
+    port: 1302
   },
   // Target Deployment
   target: 'server',
